@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+.right-head-nav {
+  margin-left: 1000px;
+  
+}
+
+section img {
+  margin-left: 325px;
+  margin-top:20px;
+  position:absolute;
+}
+
+.textfield {
+  margin-top:300px;
+  margin-left:350px;
+  width:550px;
+  height: 40px;
+  position: relative;
+}
